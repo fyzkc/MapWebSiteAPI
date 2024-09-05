@@ -1,0 +1,6 @@
+@HaritaUygulamasi_HostAddress = http://localhost:5188
+
+GET {{HaritaUygulamasi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
